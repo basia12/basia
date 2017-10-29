@@ -16,7 +16,7 @@
 ],
 
 /*
- * By default we will try to allocate large pages. This means you need to "Run As Administrator" on Windows.
+ * By default we will try to allocate large pages. This means ou need to "Run As Administrator" on Windows.
  *
  * 6. In the pane, double-click Lock pages in memory.
  * 7. In the Local Security Setting – Lock pages in memory dialog box, click Add User or Group.
