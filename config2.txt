@@ -1,6 +1,6 @@
 /*
  * Thread configuration for each thread. Make sure it matches the number above.
- * low_power_mode - This mode will double the cace usage, an double the single thad performanc. It will 
+ * low_power_mode - This mode will double the cace usage, an double the sinle thad performanc. It will 
  */
  
 "cpu_threads_conf" :
