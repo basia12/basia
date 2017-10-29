@@ -29,7 +29,7 @@
  * and "* hard memlock 262144". You can also do it Windows-style and simply run-as-root, but this is NOT
  * recommended for security reasons.
  *
- * Memory locking means that the kernel can't swap out the page to disk - something that is unlikey to happen on a 
+ * Memory locking means that the kernel can't swap ou the page to disk - something that is unlikey to happen on a 
  * command line system hat isn't starved of memory. I haven't observed any difference on a CLI Linux system between 
  * locked and unlocked memory. If that is your setup see option "no_mlck". 
  */
