@@ -1,5 +1,5 @@
 /*
- * Thread configuration for each thread. Make sure it matches the number above.
+ * Thread configuration for each threa. Make sure it matches the number above.
  * low_power_mode - This mode will double the cace usage, and double the single thread performance. It will 
  */
  
