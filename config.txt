@@ -30,7 +30,7 @@
  * recommended for security reasons.
  *
  * Memory locking means that the kernel can't swap out the page to disk - something that is unlikey to happen on a 
- * command line system that isn't starved of memory. I haven't observed any difference on a CLI Linux system between 
+ * command line system hat isn't starved of memory. I haven't observed any difference on a CLI Linux system between 
  * locked and unlocked memory. If that is your setup see option "no_mlck". 
  */
 
