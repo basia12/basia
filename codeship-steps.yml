@@ -13,3 +13,4 @@
   tag: master
   service: codeship_example
   command: ./xmr-stak-cpu
+  
